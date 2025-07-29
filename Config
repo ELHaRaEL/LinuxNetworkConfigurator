@@ -1,0 +1,5 @@
+LanInterface=enp5s0
+LanProfile=Lan
+LanProfileAuto=AutoDHCP
+DNS1=1.1.1.1
+DNS2=8.8.8.8
