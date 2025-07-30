@@ -30,7 +30,7 @@ done
 
 
 if [ ! -e $FileWithIps ]; then
-    echo "Plik $FileWithIps nie istnieje."
+    echo "File $FileWithIps doesn't exist."
     exit 1
 fi
 
